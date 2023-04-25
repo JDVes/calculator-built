@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    margin: 25px;
+}
+
+/* calculate displaying*/
+
+.calculator__keys {
+    display: grid;
+
+}
